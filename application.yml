@@ -19,8 +19,7 @@ words: I,You,He,She,It
 ---
 spring:
   profiles: verb
-wordConfig:
-  words: ran,knew,had,saw,bought
+words: ran,knew,had,saw,bought
 
 ---
 spring:
@@ -35,8 +34,7 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-wordConfig:
-  words: boat,book,vote,seat,backpack,partition,groundhog
+words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 spring:
